@@ -11,3 +11,7 @@ Gradual Typing:
 
 Verified Compilation:
 * [University of British Columbia](https://www.cs.ubc.ca/)
+
+Architecture + PL
+* [CAPRA @ Cornell](https://capra.cs.cornell.edu)
+* [Cornell University](http://pl.cs.cornell.edu/)

@@ -6,7 +6,7 @@ Feel free to make a PR adding other schools to the list. (Or remove them if the 
 
 Gradual Typing:
 
-* [Northeastern Universty (PRL)](prl.ccs.neu.edu)
+* [Northeastern Universty (PRL)](https://prl.ccs.neu.edu)
 * [Indiana University](http://wonks.github.io/)
 
 Verified Compilation:

@@ -15,6 +15,9 @@ Architecture + PL
 * [CAPRA @ Cornell](https://capra.cs.cornell.edu)
 * [Cornell University](http://pl.cs.cornell.edu/)
 
+Applied PL
+* [PLSE @ UW](http://uwplse.org)
+
 Logic & Type Theory
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)

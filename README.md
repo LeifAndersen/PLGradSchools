@@ -5,7 +5,7 @@ Finding grad schools that fit your interests can be a daunting task. Rather than
 Feel free to make a PR adding other schools to the list. (Or remove them if the PL faculty are no longer there.) Also feel free to add new sub-areas that have not been covered yet.
 
 Gradual Typing:
-* [Northeastern Universty (PRL)](prl.ccs.neu.edu)
+* [Northeastern Universty (PRL)](https://prl.ccs.neu.edu)
 * [Indiana University](http://wonks.github.io/)
 
 Verified Compilation:
@@ -26,3 +26,7 @@ Logic & Type Theory
 * [University of Pennsylvania](http://www.cis.upenn.edu/~lc/home.html)
 * [Princeton University](http://www.cs.princeton.edu/research/areas/pls)
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
+
+Networking + PL
+* [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+

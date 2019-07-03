@@ -2,12 +2,14 @@
 
 Finding grad schools that fit your interests can be a daunting task. Rather than making a ranking of the 'best' grad schools using some subjective metric, we decided to list out grad schools with professors studying PL that are open to take new students.
 
-Feel free to make a PR adding other schools to the list. (Or remove them if the PL faculty are no longer there.) Also feel free to add new sub-areas that have not been covered yet.
+Feel free to make a PR adding other schools/faculty/topics to the list. Or remove them if the PL faculty are no longer there. We want this to be a living list of active PL schools for new students/postdocs/etc. 
 
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics
     * Logic
     * Type Theory
+  - Faculty
+    * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
 
 * [CAPRA @ Cornell](https://capra.cs.cornell.edu)
   - Topics

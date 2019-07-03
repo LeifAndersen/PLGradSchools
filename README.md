@@ -55,6 +55,17 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
+    
+* University of California, Santa Cruz
+  - Topics
+    * Language support for distributed and decentralized systems
+    * Language-based security; information flow
+    * Concurrency
+  - Faculty
+    * [Owen Arden](https://users.soe.ucsc.edu/~owen/)
+    * [Cormac Flanagan](https://users.soe.ucsc.edu/~cormac/)
+    * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper)
+    * [Tyler Sorensen](http://www.cs.princeton.edu/~ts20/) (starting fall '20)
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics

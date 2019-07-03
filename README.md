@@ -4,35 +4,69 @@ Finding grad schools that fit your interests can be a daunting task. Rather than
 
 Feel free to make a PR adding other schools to the list. (Or remove them if the PL faculty are no longer there.) Also feel free to add new sub-areas that have not been covered yet.
 
-Gradual Typing:
-* [Northeastern University (PRL)](https://prl.ccs.neu.edu)
-* [Indiana University](http://wonks.github.io/)
-
-Verified Compilation:
-* [University of British Columbia](https://www.cs.ubc.ca/)
-
-Architecture + PL
-* [CAPRA @ Cornell](https://capra.cs.cornell.edu)
-* [Cornell University](http://pl.cs.cornell.edu/)
-
-PL + Systems:
-* [PLASMA @ UMass](https://plasma-umass.org/)
-
-Applied PL
-* [PLSE @ UW](http://uwplse.org)
-
-Logic & Type Theory
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
-* [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
-* [MSP @ University of Strathclyde](msp.cis.strath.ac.uk)
-* [FP @ University of Nottingham](https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx)
+  - Topics
+    * Logic
+    * Type Theory
 
-[DeepSpec (Formal Verification)](https://deepspec.org/)
+* [CAPRA @ Cornell](https://capra.cs.cornell.edu)
+  - Topics
+    * Architecture
+
+* [PL @ Cornell University](http://pl.cs.cornell.edu/)
+  - Topics
+    * Architecture
+    * Networking
+  - Faculty
+    * [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+
+* [Indiana University](http://wonks.github.io/)
+  - Topics
+    * Gradual Typing
+
 * [Massachusetts Institute of Technology](http://projects.csail.mit.edu/pl/)
-* [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
+  - Topics
+    * Deepspec
+
+* [PRL @ Northeastern University](https://prl.ccs.neu.edu)
+  - Topics
+    * Gradual Typing
+    
 * [Princeton University](http://pl.cs.princeton.edu/)
+  - Topics
+    * Deepspec
+
+* [PLASMA @ UMass](https://plasma-umass.org/)
+  - Topics
+    * Systems
+
+* [University of British Columbia](https://www.cs.ubc.ca/)
+  - Topics
+    * Verified Compilation
+
+* [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
+  - Topics
+    * Logic
+    * Type Theory
+
+* [FP @ University of Nottingham](https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx)
+  - Topics
+    * Logic
+    * Type Theory
+
+* [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
+  - Topics
+    * DeepSpec
+
+* [MSP @ University of Strathclyde](msp.cis.strath.ac.uk)
+  - Topics
+    * Logic
+    * Type Theory
+    
+* [PLSE @ University of Washington](http://uwplse.org)
+  - Topics
+    * Applied PL
+
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
-
-Networking + PL
-* [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
-
+  - Topics
+    * DeepSpec

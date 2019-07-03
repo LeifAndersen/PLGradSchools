@@ -15,3 +15,6 @@ Verified Compilation:
 Architecture + PL
 * [CAPRA @ Cornell](https://capra.cs.cornell.edu)
 * [Cornell University](http://pl.cs.cornell.edu/)
+
+Applied PL
+* [PLSE @ UW](http://uwplse.org)

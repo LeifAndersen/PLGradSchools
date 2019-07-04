@@ -40,7 +40,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [PLASMA @ UMass](https://plasma-umass.org/)
   - Topics
+    * Applied PL
+    * Software Engineering
     * Systems
+  - Faculty
+    * [Emery Berger](https://www.emeryberger.com/)
+    * [Arjun Guha](https://people.cs.umass.edu/~arjun/main/home/)
+    * [Yuriy Brun](https://people.cs.umass.edu/~brun/)
 
 * [University of British Columbia](https://www.cs.ubc.ca/)
   - Topics

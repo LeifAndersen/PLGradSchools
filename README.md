@@ -21,8 +21,12 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
+    * Functional programming
   - Faculty
     * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
+    * [Frank Pfenning](https://www.cs.cmu.edu/~fp/)
+    * [Jan Hoffmann](https://www.cs.cmu.edu/~janh/)
+    * [Karl Crary](https://www.cs.cmu.edu/~crary/)
 
 * [CAPRA @ Cornell](https://capra.cs.cornell.edu)
   - Topics
@@ -42,6 +46,8 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Massachusetts Institute of Technology](http://projects.csail.mit.edu/pl/)
   - Topics
     * Deepspec
+    * Program synthesis
+    * Software engineering
 
 * [PRL @ Northeastern University](https://prl.ccs.neu.edu)
   - Topics

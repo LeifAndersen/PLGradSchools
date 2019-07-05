@@ -73,12 +73,9 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Multi-stage Programming
     * Typestate-oriented programming
     * Verified Compilation
-    * Aspect-oriented programming
-    * Programming Language MOOCs
   - Faculty
     * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
     * [William Bowman](https://www.williamjbowman.com/)
-    * [Gregor Kiczales](https://www.cs.ubc.ca/~gregor/)
 
 * [McGill University](https://www.cs.mcgill.ca/)
   - Topics

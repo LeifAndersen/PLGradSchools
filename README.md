@@ -75,7 +75,6 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Verified Compilation
     * Aspect-oriented programming
     * Programming Language MOOCs
-    * Gradual Typing
   - Faculty
     * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
     * [William Bowman](https://www.williamjbowman.com/)

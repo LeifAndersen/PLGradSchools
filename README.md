@@ -108,3 +108,18 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * DeepSpec
+
+* [Tufts University](https://tupl.cs.tufts.edu/)
+  - Topics
+    * Domain specific languages
+    * Program synthesis
+    * Functional programming
+    * Type systems
+    * Security
+    * Garbage collection
+    * Static analysis
+  - Faculty
+    * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher)
+    * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
+    * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
+    * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)

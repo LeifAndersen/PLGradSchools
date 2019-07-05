@@ -73,6 +73,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Multi-stage Programming
     * Typestate-oriented programming
     * Verified Compilation
+    * Dependent Types
     * Aspect-oriented programming
     * Programming Language MOOCs
   - Faculty

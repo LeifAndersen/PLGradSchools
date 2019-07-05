@@ -70,6 +70,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [University of British Columbia](https://www.cs.ubc.ca/)
   - Topics
     * Verified Compilation
+    * Gradual typing
 
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics

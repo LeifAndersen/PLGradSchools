@@ -80,6 +80,14 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Higher-order Abstract Syntax
   - Faculty
     * [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
+    
+* [Queens University](http://www.cs.queensu.ca/)
+  - Topics
+    * Datasort Refinement Types
+    * Union and Intersection Types
+    * Incremental Computation
+  - Faculty
+    * [Joshua Dunfield](http://research.cs.queensu.ca/home/joshuad/)
 
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics

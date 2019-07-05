@@ -102,3 +102,14 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * DeepSpec
+    
+* [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/) (Programming Languages and Systems)
+  - Topics
+    * Logic and Type theory
+    * Semantics
+    * Verification
+    * Programming language design
+    * Compilation
+    * Runtime systems
+  - Faculty
+    * We have 16 faculty members, covering a very wide range of PL topics (see website).

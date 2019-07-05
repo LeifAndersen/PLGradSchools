@@ -95,6 +95,21 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Joshua Dunfield](http://research.cs.queensu.ca/home/joshuad/)
 
+* [Tufts University](https://tupl.cs.tufts.edu/)
+  - Topics
+    * Domain specific languages
+    * Program synthesis
+    * Functional programming
+    * Type systems
+    * Security
+    * Garbage collection
+    * Static analysis
+  - Faculty
+    * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher)
+    * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
+    * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
+    * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)
+
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics
     * Logic
@@ -116,6 +131,17 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper)
     * [Tyler Sorensen](http://www.cs.princeton.edu/~ts20/) (starting fall '20)
 
+* [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/) (Programming Languages and Systems)
+  - Topics
+    * Logic and Type theory
+    * Semantics
+    * Verification
+    * Programming language design
+    * Compilation
+    * Runtime systems
+  - Faculty
+    * 16 faculty members, see website.
+
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
     * DeepSpec
@@ -129,21 +155,8 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Applied PL
 
+
+
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * DeepSpec
-
-* [Tufts University](https://tupl.cs.tufts.edu/)
-  - Topics
-    * Domain specific languages
-    * Program synthesis
-    * Functional programming
-    * Type systems
-    * Security
-    * Garbage collection
-    * Static analysis
-  - Faculty
-    * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher)
-    * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
-    * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
-    * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)

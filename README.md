@@ -28,16 +28,26 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Jan Hoffmann](https://www.cs.cmu.edu/~janh/)
     * [Karl Crary](https://www.cs.cmu.edu/~crary/)
 
-* [CAPRA @ Cornell](https://capra.cs.cornell.edu)
-  - Topics
-    * Architecture
-
 * [PL @ Cornell University](http://pl.cs.cornell.edu/)
   - Topics
-    * Architecture
+    * [Architecture / Heterogeneous Computing](https://capra.cs.cornell.edu)
     * Networking
+    * Constructive Type Theory (NuPRL)
+    * Typed Assembly Languages
+    * Kleene Algebra with Tests
+    * Information Flow Control systems
+    * Security
+    * Privacy aware programming Languages
+    * Distributed Computing
   - Faculty
     * [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+    * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
+    * [Robert Constable](https://www.cs.cornell.edu/home/rc/)
+    * [Dexter Kozen](https://www.cs.cornell.edu/~kozen/)
+    * [Greg Morrisett](https://www.cs.cornell.edu/~jgm/)
+    * [Andrew Myers](https://www.cs.cornell.edu/andru/)
+    * [Fred Schneider](https://www.cs.cornell.edu/fbs/)
+    * [Ross Tate](https://www.cs.cornell.edu/~ross/)
 
 * [Indiana University](http://wonks.github.io/)
   - Topics

@@ -74,6 +74,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [William Bowman](https://www.williamjbowman.com/)
     * [Gregor Kiczales](https://www.cs.ubc.ca/~gregor/)
 
+* [McGill University](https://www.cs.mcgill.ca/)
+  - Topics
+    * Logical Frameworks
+    * Higher-order Abstract Syntax
+  - Faculty
+    * [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
+
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics
     * Logic

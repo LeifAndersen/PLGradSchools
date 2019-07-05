@@ -4,6 +4,19 @@ Finding grad schools that fit your interests can be a daunting task. Rather than
 
 Feel free to make a PR adding other schools/faculty/topics to the list. Or remove them if the PL faculty are no longer there. We want this to be a living list of active PL schools for new students/postdocs/etc. 
 
+* [LogSem @ Aarhus University](http://cs.au.dk/research/logic-and-semantics/)
+  - Topics
+    * Logic
+    * Type Theory
+    * Language base security
+    * Formal verification
+    * Model checking
+  - Faculty
+    * [Aslan Askarov](http://askarov.net/)
+    * [Lars Birkedal](https://cs.au.dk/~birke/)
+    * [Jaco van de Pol](https://cs.au.dk/~jaco/)
+    * [Bas Spitters](http://users-cs.au.dk/spitters/)
+
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics
     * Logic

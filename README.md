@@ -112,4 +112,4 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Compilation
     * Runtime systems
   - Faculty
-    * We have 16 faculty members, covering a very wide range of PL topics (see website).
+    * 16 faculty members, covering a very wide range of PL topics (see website).

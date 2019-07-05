@@ -109,16 +109,6 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
     * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
     * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)
-
-* [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
-  - Topics
-    * Logic
-    * Type Theory
-
-* [FP @ University of Nottingham](https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx)
-  - Topics
-    * Logic
-    * Type Theory
     
 * University of California, Santa Cruz
   - Topics
@@ -131,6 +121,11 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper)
     * [Tyler Sorensen](http://www.cs.princeton.edu/~ts20/) (starting fall '20)
 
+* [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
+  - Topics
+    * Logic
+    * Type Theory
+
 * [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/) (Programming Languages and Systems)
   - Topics
     * Logic and Type theory
@@ -141,6 +136,11 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Runtime systems
   - Faculty
     * 16 faculty members, see website.
+
+* [FP @ University of Nottingham](https://www.nottingham.ac.uk/research/groups/fp-lab/index.aspx)
+  - Topics
+    * Logic
+    * Type Theory
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics

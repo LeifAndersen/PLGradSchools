@@ -21,8 +21,12 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
+    * Functional programming
   - Faculty
     * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
+    * [Frank Pfenning](https://www.cs.cmu.edu/~fp/)
+    * [Jan Hoffmann](https://www.cs.cmu.edu/~janh/)
+    * [Karl Crary](https://www.cs.cmu.edu/~crary/)
 
 * [CAPRA @ Cornell](https://capra.cs.cornell.edu)
   - Topics
@@ -42,6 +46,8 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Massachusetts Institute of Technology](http://projects.csail.mit.edu/pl/)
   - Topics
     * Deepspec
+    * Program synthesis
+    * Software engineering
 
 * [PRL @ Northeastern University](https://prl.ccs.neu.edu)
   - Topics
@@ -69,6 +75,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Verified Compilation
     * Aspect-oriented programming
     * Programming Language MOOCs
+    * Gradual Typing
   - Faculty
     * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
     * [William Bowman](https://www.williamjbowman.com/)
@@ -126,3 +133,18 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * DeepSpec
+
+* [Tufts University](https://tupl.cs.tufts.edu/)
+  - Topics
+    * Domain specific languages
+    * Program synthesis
+    * Functional programming
+    * Type systems
+    * Security
+    * Garbage collection
+    * Static analysis
+  - Faculty
+    * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher)
+    * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
+    * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
+    * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)

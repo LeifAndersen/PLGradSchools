@@ -87,13 +87,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
     
-* [Queens University](http://www.cs.queensu.ca/)
+* [Queen's University](http://www.cs.queensu.ca/)
   - Topics
-    * Datasort Refinement Types
-    * Union and Intersection Types
-    * Incremental Computation
+    * Type systems
+    * Gradual typing
+    * Incremental computation
   - Faculty
-    * [Joshua Dunfield](http://research.cs.queensu.ca/home/joshuad/)
+    * [J. Dunfield](http://dunfieldlab.ca/)
 
 * [Tufts University](https://tupl.cs.tufts.edu/)
   - Topics

@@ -63,7 +63,16 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [University of British Columbia](https://www.cs.ubc.ca/)
   - Topics
+    * Gradual Typing
+    * Multi-stage Programming
+    * Typestate-oriented programming
     * Verified Compilation
+    * Aspect-oriented programming
+    * Programming Language MOOCs
+  - Faculty
+    * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
+    * [William Bowman](https://www.williamjbowman.com/)
+    * [Gregor Kiczales](https://www.cs.ubc.ca/~gregor/)
 
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics

@@ -69,8 +69,32 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [University of British Columbia](https://www.cs.ubc.ca/)
   - Topics
+    * Gradual Typing
+    * Multi-stage Programming
+    * Typestate-oriented programming
     * Verified Compilation
-    * Gradual typing
+    * Aspect-oriented programming
+    * Programming Language MOOCs
+    * Gradual Typing
+  - Faculty
+    * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
+    * [William Bowman](https://www.williamjbowman.com/)
+    * [Gregor Kiczales](https://www.cs.ubc.ca/~gregor/)
+
+* [McGill University](https://www.cs.mcgill.ca/)
+  - Topics
+    * Logical Frameworks
+    * Higher-order Abstract Syntax
+  - Faculty
+    * [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
+    
+* [Queens University](http://www.cs.queensu.ca/)
+  - Topics
+    * Datasort Refinement Types
+    * Union and Intersection Types
+    * Incremental Computation
+  - Faculty
+    * [Joshua Dunfield](http://research.cs.queensu.ca/home/joshuad/)
 
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics

@@ -151,6 +151,20 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
+    
+* [PLUM @ University of Maryland](http://www.cs.umd.edu/projects/PL/)
+  - Topics
+    * Functional programming
+    * Probabilistic programming    
+    * Program analysis
+    * Quantum computing
+    * Security
+    * Testing
+    * Type systems
+    * Verification
+  - Faculty
+    * [Mike Hicks](http://www.cs.umd.edu/~mwh/)
+    * [David Van Horn](http://www.cs.umd.edu/~dvanhorn/)
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics

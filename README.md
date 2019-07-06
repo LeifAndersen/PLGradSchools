@@ -2,7 +2,7 @@
 
 Finding grad schools that fit your interests can be a daunting task. Rather than making a ranking of the 'best' grad schools using some subjective metric, we decided to list out grad schools with professors studying PL that are open to take new students.
 
-Feel free to make a PR adding other schools/faculty/topics to the list. Or remove them if the PL faculty are no longer there. We want this to be a living list of active PL schools for new students/postdocs/etc. 
+Feel free to make a PR adding other schools/faculty/topics to the list. Or remove them if the PL faculty are no longer there. We want this to be a living list of active PL schools for new students/postdocs/etc.
 
 * [LogSem @ Aarhus University](http://cs.au.dk/research/logic-and-semantics/)
   - Topics
@@ -16,6 +16,19 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Lars Birkedal](https://cs.au.dk/~birke/)
     * [Jaco van de Pol](https://cs.au.dk/~jaco/)
     * [Bas Spitters](http://users-cs.au.dk/spitters/)
+
+
+* [Maple @ University of Alberta](https://karimali.ca)
+  - Topics
+    * Scalable Program Analysis
+    * Security Analysis Tools
+    * Energy-Efficient Software Systems
+    * Just-In-Time Compilers
+    * Applications of Symbolic Execution in Machine Learning
+    * Type Systems
+  - Faculty
+    * [Karim Ali](https://karimali.ca)
+
 
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics
@@ -62,7 +75,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [PRL @ Northeastern University](https://prl.ccs.neu.edu)
   - Topics
     * Gradual Typing
-    
+
 * [Princeton University](http://pl.cs.princeton.edu/)
   - Topics
     * Deepspec
@@ -96,7 +109,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Higher-order Abstract Syntax
   - Faculty
     * [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
-    
+
 * [Queen's University](http://www.cs.queensu.ca/)
   - Topics
     * Type systems
@@ -119,7 +132,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
     * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
     * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)
-    
+
 * University of California, Santa Cruz
   - Topics
     * Language support for distributed and decentralized systems
@@ -174,7 +187,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
-    
+
 * [PLSE @ University of Washington](http://uwplse.org)
   - Topics
     * Applied PL

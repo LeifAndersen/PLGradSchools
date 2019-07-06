@@ -16,6 +16,18 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Lars Birkedal](https://cs.au.dk/~birke/)
     * [Jaco van de Pol](https://cs.au.dk/~jaco/)
     * [Bas Spitters](http://users-cs.au.dk/spitters/)
+    
+* [Maple @ University of Alberta](https://karimali.ca)
+  - Topics
+    * Type Systems
+    * Energy-Efficient Software Systems
+    * Just-In-Time Compilers
+    * Security Analysis Tools
+    * Applications of Symbolic Execution in Machine Learning
+    * Usability of Program Analysis Tools
+    
+  - Faculty
+    * [Karim Ali](https://karimali.ca)
 
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics

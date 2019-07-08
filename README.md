@@ -62,6 +62,14 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [PRL @ Northeastern University](https://prl.ccs.neu.edu)
   - Topics
     * Gradual Typing
+    * Verified Compilation
+    * Language Oriented Programming
+    * Concurrent Programming Models
+  - Faculty
+    * [Matthias Felleisen](https://felleisen.org/matthias/)
+    * [Amal Ahmed](http://ccs.neu.edu/home/amal/)
+    * [Jan Vitek](http://janvitek.org/)
+    * [Frank Tip](http://www.franktip.org/)
 
 * [Princeton University](http://pl.cs.princeton.edu/)
   - Topics
@@ -189,8 +197,6 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [PLSE @ University of Washington](http://uwplse.org)
   - Topics
     * Applied PL
-
-
 
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics

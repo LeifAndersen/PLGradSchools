@@ -17,19 +17,6 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Jaco van de Pol](https://cs.au.dk/~jaco/)
     * [Bas Spitters](http://users-cs.au.dk/spitters/)
 
-
-* [Maple @ University of Alberta](https://karimali.ca)
-  - Topics
-    * Scalable Program Analysis
-    * Security Analysis Tools
-    * Energy-Efficient Software Systems
-    * Just-In-Time Compilers
-    * Applications of Symbolic Execution in Machine Learning
-    * Type Systems
-  - Faculty
-    * [Karim Ali](https://karimali.ca)
-
-
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics
     * Logic
@@ -89,6 +76,17 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Emery Berger](https://www.emeryberger.com/)
     * [Arjun Guha](https://people.cs.umass.edu/~arjun/main/home/)
     * [Yuriy Brun](https://people.cs.umass.edu/~brun/)
+
+* [Maple @ University of Alberta](https://karimali.ca)
+  - Topics
+    * Scalable Program Analysis
+    * Security Analysis Tools
+    * Energy-Efficient Software Systems
+    * Just-In-Time Compilers
+    * Applications of Symbolic Execution in Machine Learning
+    * Type Systems
+  - Faculty
+    * [Karim Ali](https://karimali.ca)
 
 * [University of British Columbia](https://www.cs.ubc.ca/)
   - Topics

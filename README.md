@@ -58,6 +58,17 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [DeepSpec](https://deepspec.org/)
     * Program synthesis
     * Software engineering
+    
+* [POEM at North Carolina State University](https://go.ncsu.edu/poem)
+  - Topics
+    * Logic programming
+    * Typed functional programming
+    * Logical frameworks/dependent type systems
+    * Substructural and modal logics
+    * Structure editors
+    * Applied language design for interactive virtual agents, virtual worlds, simulation, and procedural content generation
+  - Faculty
+    * [Chris Martens](https://go.ncsu.edu/martens)
 
 * [PRL @ Northeastern University](https://prl.ccs.neu.edu)
   - Topics

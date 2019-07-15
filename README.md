@@ -55,7 +55,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [Massachusetts Institute of Technology](http://projects.csail.mit.edu/pl/)
   - Topics
-    * Deepspec
+    * [DeepSpec](https://deepspec.org/)
     * Program synthesis
     * Software engineering
 
@@ -73,7 +73,16 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [Princeton University](http://pl.cs.princeton.edu/)
   - Topics
-    * Deepspec
+    * [DeepSpec](https://deepspec.org/)
+    * Verified Compilers
+    * Networking
+    * Program Analysis
+    * Formal Verification
+  - Faculty
+    * [Andrew Appel](http://www.cs.princeton.edu/~appel)
+    * [Aarti Gupta](http://www.cs.princeton.edu/~aartig)
+    * [Zachary Kincaid](http://www.cs.princeton.edu/~zkincaid)
+    * [David Walker](http://www.cs.princeton.edu/~dpw)
 
 * [PLASMA @ UMass](https://plasma-umass.org/)
   - Topics
@@ -187,7 +196,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
-    * DeepSpec
+    * [DeepSpec](https://deepspec.org/)
 
 * [MSP @ University of Strathclyde](msp.cis.strath.ac.uk)
   - Topics
@@ -200,4 +209,4 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
-    * DeepSpec
+    * [DeepSpec](https://deepspec.org/)

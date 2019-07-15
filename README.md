@@ -214,6 +214,18 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Logic
     * Type Theory
 
+* University of Vermont
+  - Topics
+    * Privacy
+    * Program Analysis
+    * Security
+    * Type Systems
+    * Verification
+  - Faculty
+    * [David Darais](http://david.darais.com)
+    * [Joe Near](http://www.uvm.edu/~jnear/)
+    * [Christian Skalka](http://www.cs.uvm.edu/~ceskalka/)
+
 * [PLSE @ University of Washington](http://uwplse.org)
   - Topics
     * Applied PL

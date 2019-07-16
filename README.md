@@ -44,6 +44,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
     * [Robert Constable](https://www.cs.cornell.edu/home/rc/)
     * [Dexter Kozen](https://www.cs.cornell.edu/~kozen/)
+    * [Owolabi Legunsen](http://mir.cs.illinois.edu/legunsen/)
     * [Greg Morrisett](https://www.cs.cornell.edu/~jgm/)
     * [Andrew Myers](https://www.cs.cornell.edu/andru/)
     * [Fred Schneider](https://www.cs.cornell.edu/fbs/)

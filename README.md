@@ -234,3 +234,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
+
+* [Theory Group @ University of Birmingham](http://www.cs.bham.ac.uk/research/groupings/theory/)
+  - Topics
+    * Topology and domain theory
+    * Homotopy type theory and constructive mathematics
+    * Semantics of effects
+    * Higher category theory
+    * String diagrams and graphical calculi
+    * Quantum computation
+    * Proof theory and computational complexity

@@ -59,7 +59,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [DeepSpec](https://deepspec.org/)
     * Program synthesis
     * Software engineering
-    
+
 * [POEM at North Carolina State University](https://go.ncsu.edu/poem)
   - Topics
     * Logic programming
@@ -191,7 +191,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
-    
+
 * [PLUM @ University of Maryland](http://www.cs.umd.edu/projects/PL/)
   - Topics
     * Functional programming
@@ -244,3 +244,46 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * String diagrams and graphical calculi
     * Quantum computation
     * Proof theory and computational complexity
+
+* [PL Group @ University of Hong Kong](https://hkuplg.github.io/)
+  - Topics
+    * Type systems
+    * Functional programming
+    * Object-oriented programming
+  - Faculty
+    * [Bruno C. d. S. Oliveira](https://i.cs.hku.hk/~bruno/)
+
+* [Computer Software Group, Kyoto University](https://www.fos.kuis.kyoto-u.ac.jp/)
+  - Topics
+    * Object-oriented programming
+    * Gradual typing
+    * Automated program verification
+  - Faculty
+    * [Atsushi Igarashi](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/)
+    * [Kohei Suenaga](https://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/)
+
+* Tohoku University
+  - Topics
+    * Functional programming languages
+    * Bidirectional Programming
+    * Partial evaluation
+    * Program verification
+  - Faculty
+    * [Eijiro Sumii](http://www.kb.ecei.tohoku.ac.jp/~sumii/)
+    * [Kazutaka Matsuda](http://www2.sf.ecei.tohoku.ac.jp/~kztk/)
+    * [Oleg Kiselyov](http://okmij.org/ftp/)
+    * [Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/~ohori/)
+    * [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/en/?Publication)
+
+* [Australian National University](http://cecs.anu.edu.au/)
+  - Topics
+    * Program verification
+    * Security
+    * Logic for computer science
+    * Memory management
+    * Language runtimes
+  - Faculty
+    * [Jeremy Dawson](https://cecs.anu.edu.au/people/jeremy-dawson)
+    * [Alwen Tiu](https://cecs.anu.edu.au/people/alwen-tiu)
+    * [Steve Blackburn](https://cecs.anu.edu.au/people/steve-blackburn)
+    * [Tony Hosking](https://cecs.anu.edu.au/people/tony-hosking)

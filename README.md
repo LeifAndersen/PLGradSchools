@@ -17,6 +17,19 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Jaco van de Pol](https://cs.au.dk/~jaco/)
     * [Bas Spitters](http://users-cs.au.dk/spitters/)
 
+* [Australian National University](http://cecs.anu.edu.au/)
+  - Topics
+    * Program verification
+    * Security
+    * Logic for computer science
+    * Memory management
+    * Language runtimes
+  - Faculty
+    * [Jeremy Dawson](https://cecs.anu.edu.au/people/jeremy-dawson)
+    * [Alwen Tiu](https://cecs.anu.edu.au/people/alwen-tiu)
+    * [Steve Blackburn](https://cecs.anu.edu.au/people/steve-blackburn)
+    * [Tony Hosking](https://cecs.anu.edu.au/people/tony-hosking)
+
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics
     * Logic
@@ -54,13 +67,22 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Gradual Typing
 
+* [Computer Software Group @ Kyoto University](https://www.fos.kuis.kyoto-u.ac.jp/)
+  - Topics
+    * Object-oriented programming
+    * Gradual typing
+    * Automated program verification
+  - Faculty
+    * [Atsushi Igarashi](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/)
+    * [Kohei Suenaga](https://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/)
+
 * [Massachusetts Institute of Technology](http://projects.csail.mit.edu/pl/)
   - Topics
     * [DeepSpec](https://deepspec.org/)
     * Program synthesis
     * Software engineering
 
-* [POEM at North Carolina State University](https://go.ncsu.edu/poem)
+* [POEM @ North Carolina State University](https://go.ncsu.edu/poem)
   - Topics
     * Logic programming
     * Typed functional programming
@@ -145,6 +167,19 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [J. Dunfield](http://dunfieldlab.ca/)
 
+* Tohoku University
+  - Topics
+    * Functional programming languages
+    * Bidirectional Programming
+    * Partial evaluation
+    * Program verification
+  - Faculty
+    * [Eijiro Sumii](http://www.kb.ecei.tohoku.ac.jp/~sumii/)
+    * [Kazutaka Matsuda](http://www2.sf.ecei.tohoku.ac.jp/~kztk/)
+    * [Oleg Kiselyov](http://okmij.org/ftp/)
+    * [Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/~ohori/)
+    * [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/en/?Publication)
+
 * [Tufts University](https://tupl.cs.tufts.edu/)
   - Topics
     * Domain specific languages
@@ -159,6 +194,16 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
     * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
     * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)
+
+* [Theory Group @ University of Birmingham](http://www.cs.bham.ac.uk/research/groupings/theory/)
+  - Topics
+    * Topology and domain theory
+    * Homotopy type theory and constructive mathematics
+    * Semantics of effects
+    * Higher category theory
+    * String diagrams and graphical calculi
+    * Quantum computation
+    * Proof theory and computational complexity
 
 * University of California, Santa Cruz
   - Topics
@@ -175,6 +220,14 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Logic
     * Type Theory
+     
+* [PL Group @ University of Hong Kong](https://hkuplg.github.io/)
+  - Topics
+    * Type systems
+    * Functional programming
+    * Object-oriented programming
+  - Faculty
+    * [Bruno C. d. S. Oliveira](https://i.cs.hku.hk/~bruno/)
 
 * [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/) (Programming Languages and Systems)
   - Topics
@@ -234,56 +287,3 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
-
-* [Theory Group @ University of Birmingham](http://www.cs.bham.ac.uk/research/groupings/theory/)
-  - Topics
-    * Topology and domain theory
-    * Homotopy type theory and constructive mathematics
-    * Semantics of effects
-    * Higher category theory
-    * String diagrams and graphical calculi
-    * Quantum computation
-    * Proof theory and computational complexity
-
-* [PL Group @ University of Hong Kong](https://hkuplg.github.io/)
-  - Topics
-    * Type systems
-    * Functional programming
-    * Object-oriented programming
-  - Faculty
-    * [Bruno C. d. S. Oliveira](https://i.cs.hku.hk/~bruno/)
-
-* [Computer Software Group, Kyoto University](https://www.fos.kuis.kyoto-u.ac.jp/)
-  - Topics
-    * Object-oriented programming
-    * Gradual typing
-    * Automated program verification
-  - Faculty
-    * [Atsushi Igarashi](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/)
-    * [Kohei Suenaga](https://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/)
-
-* Tohoku University
-  - Topics
-    * Functional programming languages
-    * Bidirectional Programming
-    * Partial evaluation
-    * Program verification
-  - Faculty
-    * [Eijiro Sumii](http://www.kb.ecei.tohoku.ac.jp/~sumii/)
-    * [Kazutaka Matsuda](http://www2.sf.ecei.tohoku.ac.jp/~kztk/)
-    * [Oleg Kiselyov](http://okmij.org/ftp/)
-    * [Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/~ohori/)
-    * [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/en/?Publication)
-
-* [Australian National University](http://cecs.anu.edu.au/)
-  - Topics
-    * Program verification
-    * Security
-    * Logic for computer science
-    * Memory management
-    * Language runtimes
-  - Faculty
-    * [Jeremy Dawson](https://cecs.anu.edu.au/people/jeremy-dawson)
-    * [Alwen Tiu](https://cecs.anu.edu.au/people/alwen-tiu)
-    * [Steve Blackburn](https://cecs.anu.edu.au/people/steve-blackburn)
-    * [Tony Hosking](https://cecs.anu.edu.au/people/tony-hosking)

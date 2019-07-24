@@ -82,6 +82,19 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Program synthesis
     * Software engineering
 
+* [McMaster University](https://www.eng.mcmaster.ca/cas)
+  - Topics
+    * Dependently typed programming
+    * Typed functional programming
+    * DSLs for many purposes
+    * Languages for programming mathematics
+    * Software Engineering
+  - Faculty
+    * [Jacques Carette](https://www.cas.mcmaster.ca/~carette)
+    * [Wolfram Kahl](https://www.cas.mcmaster.ca/~kahl)
+    * [Richard Paige](https://www.cas.mcmaster.ca/paige)
+    * [William Farmer](http://imps.mcmaster.ca/wmfarmer/)
+    
 * [POEM @ North Carolina State University](https://go.ncsu.edu/poem)
   - Topics
     * Logic programming

@@ -30,6 +30,18 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Steve Blackburn](https://cecs.anu.edu.au/people/steve-blackburn)
     * [Tony Hosking](https://cecs.anu.edu.au/people/tony-hosking)
 
+* [PLT @ Brown University](https://cs.brown.edu/research/plt/)
+  - Topics
+    * PL applied to education
+	* Metaprogramming
+	* Programming environments
+    * Tested semantics
+	* Applied model theory
+  - Faculty
+    * [Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
+    * [Tim Nelson](https://cs.brown.edu/people/tbn/)
+    * [Kathi Fisler](https://cs.brown.edu/~kfisler/)
+
 * [POP @ Carnegie Mellon University](http://www.cs.cmu.edu/Groups/pop/)
   - Topics
     * Logic

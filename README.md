@@ -30,6 +30,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Steve Blackburn](https://cecs.anu.edu.au/people/steve-blackburn)
     * [Tony Hosking](https://cecs.anu.edu.au/people/tony-hosking)
     * [Dirk Pattinson](http://users.cecs.anu.edu.au/~dpattinson)
+    * [Michael Norrish](https://cecs.anu.edu.au/people/michael-norrish)
 
 * [PLT @ Brown University](https://cs.brown.edu/research/plt/)
   - Topics

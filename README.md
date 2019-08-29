@@ -312,3 +312,21 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
+    
+    
+    
+* [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
+  - Topics
+    * Security
+    * Distributed Systems
+    * Compilers
+    * Verification
+    * Program synthesis
+    * Program Analysis
+  - Faculty
+    * [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/)
+    * [Tiark Rompf](http://tiarkrompf.github.io/)
+    * [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/index.html)
+    * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/)
+    * [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/)
+    

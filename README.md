@@ -143,6 +143,19 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Zachary Kincaid](http://www.cs.princeton.edu/~zkincaid)
     * [David Walker](http://www.cs.princeton.edu/~dpw)
 
+* [Purpl @ Purdue University](https://purpl.cs.purdue.edu/)
+  - Topics
+    * Language Design
+    * Program Synthesis
+    * Compiler Implementation
+    * Systems
+    * Formal Verification
+  - Faculty
+    * [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
+    * [Tiark Rompf](https://tiarkrompf.github.io/)
+    * [Roopsha Samantha](https://www.cs.purdue.edu/homes/roopsha/)
+    * [Milind Kulkarni](https://engineering.purdue.edu/~milind/)
+
 * [PLASMA @ UMass](https://plasma-umass.org/)
   - Topics
     * Applied PL
@@ -176,6 +189,21 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
     * [William Bowman](https://www.williamjbowman.com/)
+    
+* [CLC @ University of Iowa] (http://clc.cs.uiowa.edu/site/)
+  - Topics
+    * First-order Theorem Proving
+    * Model Checking and Verification
+    * Programming Languages Theory
+    * Privacy
+    * Proof Checking
+    * Satisfiability Modulo Theories
+    * Security
+    * Verified Programming
+  - Faculty
+    * [Aaron Stump] (http://homepage.cs.uiowa.edu/~astump/)
+    * [Cesare Tinelli] (http://homepage.cs.uiowa.edu/~tinelli)
+    * [Omar Chowdhury] (http://homepage.cs.uiowa.edu/~comarhaider/)
 
 * [McGill University](https://www.cs.mcgill.ca/)
   - Topics

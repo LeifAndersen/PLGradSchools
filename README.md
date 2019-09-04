@@ -192,7 +192,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Ron Garcia](https://www.cs.ubc.ca/~rxg/)
     * [William Bowman](https://www.williamjbowman.com/)
     
-* [CLC @ University of Iowa] (http://clc.cs.uiowa.edu/site/)
+* [CLC @ University of Iowa](http://clc.cs.uiowa.edu/site/)
   - Topics
     * First-order Theorem Proving
     * Model Checking and Verification

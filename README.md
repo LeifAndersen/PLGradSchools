@@ -323,7 +323,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Logic
     * Type Theory
 
-* University of Vermont
+* [PLAID @ University of Vermont](https://plaid.w3.uvm.edu/)
   - Topics
     * Privacy
     * Program Analysis

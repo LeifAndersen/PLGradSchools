@@ -339,6 +339,15 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * Applied PL
 
+* [PLG @ University of Waterloo](https://plg.uwaterloo.ca/)
+  - Topics
+    * Type Systems
+    * Program Analysis
+    * Concurrency
+  - Faculty
+    * [Werner Dietl](https://ece.uwaterloo.ca/~wdietl/)
+    * [Patrick Lam](https://patricklam.ca/)
+
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)

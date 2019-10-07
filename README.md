@@ -203,9 +203,9 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Security
     * Verified Programming
   - Faculty
-    * [Aaron Stump] (http://homepage.cs.uiowa.edu/~astump/)
-    * [Cesare Tinelli] (http://homepage.cs.uiowa.edu/~tinelli)
-    * [Omar Chowdhury] (http://homepage.cs.uiowa.edu/~comarhaider/)
+    * [Aaron Stump](http://homepage.cs.uiowa.edu/~astump/)
+    * [Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli)
+    * [Omar Chowdhury](http://homepage.cs.uiowa.edu/~comarhaider/)
 
 * [McGill University](https://www.cs.mcgill.ca/)
   - Topics

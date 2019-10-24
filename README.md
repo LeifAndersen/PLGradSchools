@@ -203,9 +203,9 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Security
     * Verified Programming
   - Faculty
-    * [Aaron Stump] (http://homepage.cs.uiowa.edu/~astump/)
-    * [Cesare Tinelli] (http://homepage.cs.uiowa.edu/~tinelli)
-    * [Omar Chowdhury] (http://homepage.cs.uiowa.edu/~comarhaider/)
+    * [Aaron Stump](http://homepage.cs.uiowa.edu/~astump/)
+    * [Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli)
+    * [Omar Chowdhury](http://homepage.cs.uiowa.edu/~comarhaider/)
 
 * [McGill University](https://www.cs.mcgill.ca/)
   - Topics
@@ -323,7 +323,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Logic
     * Type Theory
 
-* University of Vermont
+* [PLAID @ University of Vermont](https://plaid.w3.uvm.edu/)
   - Topics
     * Privacy
     * Program Analysis
@@ -338,6 +338,15 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [PLSE @ University of Washington](http://uwplse.org)
   - Topics
     * Applied PL
+
+* [PLG @ University of Waterloo](https://plg.uwaterloo.ca/)
+  - Topics
+    * Type Systems
+    * Program Analysis
+    * Concurrency
+  - Faculty
+    * [Werner Dietl](https://ece.uwaterloo.ca/~wdietl/)
+    * [Patrick Lam](https://patricklam.ca/)
 
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics

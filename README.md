@@ -314,6 +314,22 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Mike Hicks](http://www.cs.umd.edu/~mwh/)
     * [David Van Horn](http://www.cs.umd.edu/~dvanhorn/)
 
+* [MPLSE @ University of Michigan](http://mplse.org/)
+  - Topics
+    * Programming environments / PL + HCI 
+    * Functional programming
+    * Type systems
+    * Program analysis
+    * Program synthesis
+  - Faculty
+    * [Cyrus Omar](https://web.eecs.umich.edu/~comar/)
+    * [Jean-Baptiste Jeannin](http://www-personal.umich.edu/~jeannin/)
+    * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
+    * [Satish Narayanaswamy](https://web.eecs.umich.edu/~nsatish/)
+    * [Stephen Oney](http://from.so/)
+    * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
+    * [Xinyu Wang](https://www.cs.utexas.edu/~xwang/) (incoming Fall 2020)
+
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
     * [DeepSpec](https://deepspec.org/)

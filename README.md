@@ -145,18 +145,24 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Zachary Kincaid](http://www.cs.princeton.edu/~zkincaid)
     * [David Walker](http://www.cs.princeton.edu/~dpw)
 
-* [Purpl @ Purdue University](https://purpl.cs.purdue.edu/)
+* [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
   - Topics
     * Language Design
+    * Security
+    * Compilers
+    * Verification
     * Program Synthesis
-    * Compiler Implementation
-    * Systems
+    * Program Analysis
     * Formal Verification
+    * Distributed Systems
+    * Software Engineering
   - Faculty
     * [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/)
     * [Tiark Rompf](https://tiarkrompf.github.io/)
     * [Roopsha Samantha](https://www.cs.purdue.edu/homes/roopsha/)
     * [Milind Kulkarni](https://engineering.purdue.edu/~milind/)
+    * [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/)
+    * [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/)
 
 * [PLASMA @ UMass](https://plasma-umass.org/)
   - Topics
@@ -367,21 +373,3 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
-    
-    
-    
-* [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
-  - Topics
-    * Security
-    * Distributed Systems
-    * Compilers
-    * Verification
-    * Program synthesis
-    * Program Analysis
-  - Faculty
-    * [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/)
-    * [Tiark Rompf](http://tiarkrompf.github.io/)
-    * [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/index.html)
-    * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/)
-    * [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/)
-    

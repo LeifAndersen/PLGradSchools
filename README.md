@@ -340,7 +340,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Topics
     * [DeepSpec](https://deepspec.org/)
 
-* [MSP @ University of Strathclyde](msp.cis.strath.ac.uk)
+* [MSP @ University of Strathclyde](http://msp.cis.strath.ac.uk/)
   - Topics
     * Logic
     * Type Theory

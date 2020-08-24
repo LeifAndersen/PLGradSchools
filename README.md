@@ -277,6 +277,20 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper)
     * [Tyler Sorensen](http://www.cs.princeton.edu/~ts20/) (starting fall '20)
 
+* University of California, Riverside
+  - Topics 
+    * Verification and synthesis for distributed computing.
+    * Compiler and architectural support for parallel systems.
+    * Scalable static analysis techniques.
+  - Faculty
+    * [Rajiv Gupta](https://www.cs.ucr.edu/~gupta/)
+    * [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/)
+    * [Manu Sridharan](https://manu.sridharan.net/)
+    * [Zhijia Zhao](https://www.cs.ucr.edu/~zhijia/)
+
+  - Research Groups
+    * [RIPLE](https://riple.cs.ucr.edu/) (Riverside Programming Languages and Software Engineering).
+
 * [LFCS @ University of Edinburgh](http://wcms.inf.ed.ac.uk/lfcs/research/groups-and-projects/pl/programming-research-at-lfcs)
   - Topics
     * Logic

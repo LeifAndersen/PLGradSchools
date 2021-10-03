@@ -90,6 +90,16 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Atsushi Igarashi](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/)
     * [Kohei Suenaga](https://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/)
 
+* [RSS @ Universidade de Lisboa](https://www.lasige.pt/research-line/reliable-software-systems/)
+  - Topics
+    * Session Types
+    * Program Synthesis
+    * PL for ML
+  - Faculty
+    * [Vasco Vasconcelos](https://www.di.fc.ul.pt/~vv/)
+    * [Alcides Fonseca](https://alcidesfonseca.com)
+    * [Andreia Mordido](http://www.di.fc.ul.pt/~amordido/)
+
 * [Massachusetts Institute of Technology](http://projects.csail.mit.edu/pl/)
   - Topics
     * [DeepSpec](https://deepspec.org/)

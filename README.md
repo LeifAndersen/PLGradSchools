@@ -314,6 +314,15 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Bruno C. d. S. Oliveira](https://i.cs.hku.hk/~bruno/)
 
+* [Hong Kong University of Science and Technology](https://www.cse.ust.hk/pg/admissions/)
+  - Topics
+    * Type systems
+    * Functional programming
+    * Compiler optimization
+    * Domain-specific languages
+  - Faculty
+    * [Lionel Parreaux](https://lptk.github.io/recruiting.html)
+
 * [PLAS @ University of Kent](https://www.cs.kent.ac.uk/research/groups/plas/) (Programming Languages and Systems)
   - Topics
     * Logic and Type theory

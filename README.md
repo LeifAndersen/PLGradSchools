@@ -232,13 +232,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/) 
     * [Clark Verbrugge](http://www.sable.mcgill.ca/~clump/)
 
-* [Queen's University](http://www.cs.queensu.ca/)
+* [Queen's University](https://www.cs.queensu.ca/)
   - Topics
     * Type systems
     * Gradual typing
     * Incremental computation
   - Faculty
-    * [J. Dunfield](http://dunfieldlab.ca/)
+    * [Jana Dunfield](http://dunfieldlab.ca/)
 
 * Tohoku University
   - Topics

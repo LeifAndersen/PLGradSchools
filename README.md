@@ -362,14 +362,22 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Type systems
     * Program analysis
     * Program synthesis
+    * Gradual Typing
+    * Category Theory
+    * Verification
+    * Formal methods
+    * Software Engineering
   - Faculty
-    * [Cyrus Omar](https://web.eecs.umich.edu/~comar/)
     * [Jean-Baptiste Jeannin](http://www-personal.umich.edu/~jeannin/)
-    * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
+    * [Max New](http://maxsnew.com/)
+    * [Cyrus Omar](https://web.eecs.umich.edu/~comar/)
+    * [Xinyu Wang](https://web.eecs.umich.edu/~xwangsd/)
+    * [Manos Kapritsos](https://web.eecs.umich.edu/~manosk/)
+    * [Yatin Manerkar](https://web.eecs.umich.edu/~manerkar/)
     * [Satish Narayanaswamy](https://web.eecs.umich.edu/~nsatish/)
     * [Stephen Oney](http://from.so/)
+    * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
     * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
-    * [Xinyu Wang](https://www.cs.utexas.edu/~xwang/) (incoming Fall 2020)
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics

@@ -75,8 +75,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Greg Morrisett](https://www.cs.cornell.edu/~jgm/)
     * [Andrew Myers](https://www.cs.cornell.edu/andru/)
     * [Fred Schneider](https://www.cs.cornell.edu/fbs/)
-    * [Ross Tate](https://www.cs.cornell.edu/~ross/)
-
+    
 * [Indiana University](http://wonks.github.io/)
   - Topics
     * Gradual Typing

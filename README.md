@@ -75,8 +75,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Greg Morrisett](https://www.cs.cornell.edu/~jgm/)
     * [Andrew Myers](https://www.cs.cornell.edu/andru/)
     * [Fred Schneider](https://www.cs.cornell.edu/fbs/)
-    * [Ross Tate](https://www.cs.cornell.edu/~ross/)
-
+    
 * [Indiana University](http://wonks.github.io/)
   - Topics
     * Gradual Typing
@@ -408,3 +407,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
+
+* [University at Buffalo, SUNY](https://cse.buffalo.edu)
+  - Topics
+    * Type Systems
+    * Compilers
+    * Concurrency
+    * Language-Based Security
+  - Faculty
+    * [Lukasz Ziarek](https://cse.buffalo.edu/~lziarek/)
+    * [Andrew K. Hirsch](https://akhirsch.science)

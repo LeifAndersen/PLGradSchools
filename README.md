@@ -379,6 +379,23 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Logic
     * Type Theory
 
+* [CPU @ University of Utah](http://cpu.cs.utah.edu/)
+  - Topics
+    * compiler optimization
+    * verification, testing, formal methods
+    * PL design & implementation
+    * gradual typing
+  - Faculty
+    * [Eric Eide](http://www.cs.utah.edu/~eeide/)
+    * [Matthew Flatt](http://www.cs.utah.edu/~mflatt/)
+    * [Ganesh Gopalakrishnan](http://www.cs.utah.edu/~ganesh/)
+    * [Ben Greenman](http://www.cs.utah.edu/~blg/)
+    * [Mary Hall](http://www.cs.utah.edu/~mhall/)
+    * [Pavel Panchekha](https://pavpanchekha.com/)
+    * [Zvonimir Rakamaric](https://zvonimir.info/)
+    * [John Regehr](http://www.cs.utah.edu/~regehr/)
+    * [Saday Sadayappan](http://www.cs.utah.edu/~saday/)
+
 * [PLAID @ University of Vermont](https://plaid.w3.uvm.edu/)
   - Topics
     * Privacy

@@ -377,6 +377,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Stephen Oney](http://from.so/)
     * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
     * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
+    * [Xinyu Wang](https://www.cs.utexas.edu/~xwang/)
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
@@ -442,3 +443,4 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Lukasz Ziarek](https://cse.buffalo.edu/~lziarek/)
     * [Andrew K. Hirsch](https://akhirsch.science)
+    * [Qianchuan Ye](https://scholar.google.com/citations?user=IZisiCwAAAAJ&hl=en)

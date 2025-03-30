@@ -377,6 +377,19 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Stephen Oney](http://from.so/)
     * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
     * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
+   
+* [University of Oxford](https://www.cs.ox.ac.uk/research/pl/)
+  - Topics
+    * [Session types & π-calculus](https://mrg.cs.ox.ac.uk/)
+    * Formal verification
+    * Functional programming
+    * Type theory
+    * Category theory
+    * Algebra of Programming
+    * Differentiable and Probabilistic Programming
+    * Foundations of Programming Languages
+    * Game Semantics
+    * Nominal Techniques
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics

@@ -442,3 +442,15 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Lukasz Ziarek](https://cse.buffalo.edu/~lziarek/)
     * [Andrew K. Hirsch](https://akhirsch.science)
+
+* [IMDEA Software Institute](https://software.imdea.org)
+  - Topics
+    * Type Systems
+    * Refinement Types
+    * Verification
+    * Concurrency
+    * Logic
+  - Faculty
+    * [Aleks Nanevski](https://software.imdea.org/~aleks/)
+    * [Niki Vazou](https://nikivazou.github.io/)
+    * [César Sánchez](https://software.imdea.org/~cesar/)
